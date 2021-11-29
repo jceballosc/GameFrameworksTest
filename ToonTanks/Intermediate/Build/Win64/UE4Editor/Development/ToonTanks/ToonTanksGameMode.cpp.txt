@@ -1,0 +1,24 @@
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Source\ToonTanks\ToonTanksGameMode.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\ToonTanksGameMode.generated.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+E:\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+E:\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Source\ToonTanks\Tank.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Source\ToonTanks\BasePawn.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.generated.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Tank.generated.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Source\ToonTanks\Tower.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Tower.generated.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Source\ToonTanks\ToonTanksPlayerController.h
+C:\Users\jceba\OneDrive\Desktop\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\ToonTanksPlayerController.generated.h
